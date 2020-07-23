@@ -1,5 +1,5 @@
-<h1>Hi Traveller, I am <a href="https://5203376.herzingmontreal.ca/">Tapan</a><img src="https://raw.githubusercontent.com/dabhitapan/tapandabhi/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/dabhitapan/tapandabhi/blob/master/my_image.jpg" width="230" />
+<h1>Hi Traveller, I am <a href="https://5203376.herzingmontreal.ca/">Tapan</a><img src="https://raw.githubusercontent.com/dabhitapan/dabhitapan/master/gifs/Hi.gif" width="30px"></h1>
+<img align='right' src="https://github.com/dabhitapan/dabhitapan/blob/master/my_image.jpg" width="230" />
 
 <a href="https://linkedin.com/in/tapan-dabhi"><img src="https://github.com/dabhitapan/tapandabhi/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/dabhitapan"><img src="https://github.com/dabhitapan/tapandabhi/blob/master/logos/github-logo.png" width="40" /></a>
