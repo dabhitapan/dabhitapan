@@ -1,5 +1,5 @@
 <h1>Hi Traveller, I am <a href="https://5203376.herzingmontreal.ca/">Tapan</a><img src="https://raw.githubusercontent.com/dabhitapan/tapandabhi/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/dabhitapan/tapandabhi/blob/master/my_image.jpeg" width="230" />
+<img align='right' src="https://github.com/dabhitapan/tapandabhi/blob/master/my_image.jpg" width="230" />
 
 <a href="https://linkedin.com/in/tapan-dabhi"><img src="https://github.com/dabhitapan/tapandabhi/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/dabhitapan"><img src="https://github.com/dabhitapan/tapandabhi/blob/master/logos/github-logo.png" width="40" /></a>
@@ -10,7 +10,7 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Full Stack Developer 🍥 at<a href="https://brossarddesign.com/">Brossard App Design</a> 🤖 </summary>
+<summary>Full Stack Developer 🍥 at <a href="https://brossarddesign.com/"> Brossard App Design</a> 🤖 </summary>
   <ul>
     <li>Working as a full stack developer including Mobile, Web Apps and Backend with Brossard App Design, Montreal.</li>
   </ul>
