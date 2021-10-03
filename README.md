@@ -10,9 +10,9 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Full Stack Developer 🍥 at <a href="https://brossarddesign.com/"> Brossard App Design</a> 🤖 </summary>
+<summary>Software Developer 🍥 at <a href="https://www.clickatell.com/"> Clickatell</a> 🤖 </summary>
   <ul>
-    <li>Working as a full stack developer including Mobile, Web Apps and Backend with Brossard App Design, Montreal.</li>
+    <li>Working as a software developer with Clickatell.</li>
   </ul>
 </details>
 
