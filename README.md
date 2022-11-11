@@ -32,10 +32,20 @@
   </pre>
 </details>
 
+![Tapans's Github Profile Views](https://komarev.com/ghpvc/?username=dabhitapan&color=blueviolet)  
+
+
+<!-- <a href="https://github.com/jstrieb/github-stats">
+![](https://raw.githubusercontent.com/dabhitapan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dabhitapan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+</a> -->
+
+<!-- ![](https://raw.githubusercontent.com/dabhitapan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dabhitapan/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 ![Tapans's Github Stats](https://github-readme-stats.vercel.app/api?username=dabhitapan&show_icons=true&theme=tokyonight)
 
-<br >
-<br />
+<!--  <br /> 
+ <br /> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabhitapan&theme=tokyonight)
