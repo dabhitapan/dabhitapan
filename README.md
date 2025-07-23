@@ -24,12 +24,12 @@
     for web and mobile applications. Proficient in React, Angular, React Native, Node.js, and more. 
     I have a proven track record in delivering end-to-end solutions across various industries.
 
-    - Frontend - HTML5, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, Vb.Net, Angular, React
-    - Backend - Java, Php, Vb.Net, REST, Sprint-Boot, Laravel
-    - Mobile - React-Native, Android
-    - Database - MySQL, PostgreSQL, NoSQL
-    - Servers / Deployments - Apache, Tomcat, NGINX, AWS
-    - Version Control - GIT, SVN 
+        - Frontend - HTML5, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, Vb.Net, Angular, React
+        - Backend - Java, Php, Vb.Net, REST, Sprint-Boot, Laravel
+        - Mobile - React-Native, Android
+        - Database - MySQL, PostgreSQL, NoSQL
+        - Servers / Deployments - Apache, Tomcat, NGINX, AWS
+        - Version Control - GIT, SVN 
   </pre>
 </details>
 
