@@ -20,10 +20,11 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-    To acquire a challenging career with a growing company utilizing the opportunity to offer
-    proven and developing skills within the company. I have strong skills and background with technologies like
+    I am a seasoned full-stack developer with expertise in crafting innovative solutions 
+    for web and mobile applications. Proficient in React, Angular, React Native, Node.js, and more. 
+    I have a proven track record in delivering end-to-end solutions across various industries.
 
-    - Frontend - HTML5, CSS, Sass, Bootstrap4, JavaScript, Vb.Net, Angular Js, React Js
+    - Frontend - HTML5, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, Vb.Net, Angular, React
     - Backend - Java, Php, Vb.Net, REST, Sprint-Boot, Laravel
     - Mobile - React-Native, Android
     - Database - MySQL, PostgreSQL, NoSQL
